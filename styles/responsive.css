@@ -1,0 +1,5 @@
+@media all and (max-width: 575px) {
+    .blog-parent{
+        grid-template-columns: repeat(1, 1fr);
+      }
+}
